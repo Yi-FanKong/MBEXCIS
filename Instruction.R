@@ -34,7 +34,7 @@ install.packages("MBEXCIS_1.0.tar.gz",type='source')
 ###########################################################################
 
 ##example 1:
-##There is a data set "mixture_data1" that includes a quantitative trait and the genotype of target SNP of 30 pedigrees, 260 pedigree-related individuals and 260 unrelated individuals.
+##There is a data set "mixture_data1" that includes a quantitative trait and the genotype of target SNP of 30 pedigrees, 260 pedigree-related individuals and extra 130 unrelated females.
 ##There is the corresponding covariate data "covariate_mixture1_2" for above individuals.
 
 ############################  step 1: loading the R package  ########################
